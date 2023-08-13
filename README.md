@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JeanGabrieldeMontigny and im in 2nd year in Software Engineering at the Univeristy of Ottawa.
+- 👋 Hi, I’m @JeanGabrieldeMontigny and im in 4th year in Software Engineering at the Univeristy of Ottawa.
 - 👀 I’m interested in programming, the stock market and golf.
 - 🌱 I’m currently learning more about Java to deepen muy understanding of object oriented languages.
 - 💞️ I’m looking to collaborate with a few of my friends to create a portfolio website for our coding projects.
