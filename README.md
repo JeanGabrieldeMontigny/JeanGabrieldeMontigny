@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JeanGabrieldeMontigny and im in 4th year in Software Engineering at the Univeristy of Ottawa.
-- 👀 I’m interested in programming, the stock market and golf.
-- 🌱 I’m currently learning more about Java to deepen muy understanding of object oriented languages.
-- 💞️ I’m looking to collaborate with a few of my friends to create a portfolio website for our coding projects.
-- 📫 How to reach me : jdemo037@uottawa.ca
+- I’m looking to collaborate with a few of my friends to create a portfolio website for our coding projects.
+- I’m currently learning more about C++ to deepen my understanding of object oriented languages.
+- How to reach me : jdemo037@uottawa.ca
 
 <!---
 JeanGabrieldeMontigny/JeanGabrieldeMontigny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
