@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JeanGabrieldeMontigny and im in 4th year in Software Engineering at the Univeristy of Ottawa.
+- Currently developing a trading algorithm which would integrate a LLM to analyze market sentiment and a market scanner to find stocks meeting certain criteria for my Capstone project
 - I’m looking to collaborate with a few of my friends to create a portfolio website for our coding projects.
 - I’m currently learning more about C++ to deepen my understanding of object oriented languages.
 - How to reach me : jdemo037@uottawa.ca
